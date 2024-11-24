@@ -3,8 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-[![IT Man - Tech Radars: Latest Innovations in Tailwind CSS v4, React Router v7 &amp; TanStack Start Beta](https://i.ytimg.com/vi/F08OKQultWo/hqdefault.jpg)](https://www.youtube.com/watch?v=F08OKQultWo)
-
+[![IT Man - Tech Radars: Latest Innovations in Tailwind CSS v4, React Router v7 & TanStack Start Beta](https://i.ytimg.com/vi/F08OKQultWo/hqdefault.jpg)](https://www.youtube.com/watch?v=F08OKQultWo)
 
 ## Usage
 
