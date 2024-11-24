@@ -7,9 +7,10 @@
 
 ```sh
 bun install
-``` 
+```
 
 Then run the following command to start the app:
+
 ```sh
 bun run dev
 ```
