@@ -12,18 +12,18 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@tanstack/router-plugin": "1.98.0",
+		"@tanstack/router-plugin": "1.98.3",
 		"@types/react": "18.3.18",
 		"@types/react-dom": "18.3.5",
 		"@vitejs/plugin-react": "4.3.4",
 		"vite": "5.4.14"
 	},
 	"dependencies": {
-		"@tailwindcss/vite": "4.0.0",
-		"@tanstack/react-router": "1.98.0",
-		"@tanstack/router-devtools": "1.98.0",
+		"@tailwindcss/vite": "4.0.1",
+		"@tanstack/react-router": "1.98.3",
+		"@tanstack/router-devtools": "1.98.3",
 		"react": "18.3.1",
 		"react-dom": "18.3.1",
-		"tailwindcss": "4.0.0"
+		"tailwindcss": "4.0.1"
 	}
 }
